@@ -14,7 +14,7 @@ Before you begin, ensure you have the following:
 
 2.  **OpenAI API Key**: You'll need an API key from OpenAI. You can get one by signing up on the [OpenAI platform](https://platform.openai.com/). To start using the API key, you have to provide a payment method and load some credits into your account. 
 
-3.  **Data File**: A CSV file named `utility_bills.csv` containing your utility bill data. For now, this file must be in the same directory as the `test.py` script.
+3.  **Data File**: A CSV file named `utility_bills.csv` or something else containing your utility bill data. This file must be in the data folder in the same directory as the script. The file path should look like `data/utility_bills.csv`
 
 ## Setup and Installation
 
